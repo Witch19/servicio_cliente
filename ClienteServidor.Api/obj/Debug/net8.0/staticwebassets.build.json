@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "Pq8iFOrPk5UYovOEYaIqq3MddspGtCiq/EMTuWmMrVY=",
+  "Source": "ClienteServidor.Api",
+  "BasePath": "_content/ClienteServidor.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ClienteServidor.Api\\wwwroot",
+      "Source": "ClienteServidor.Api",
+      "ContentRoot": "C:\\BUSSING IT\\servicio_cliente\\ClienteServidor.Api\\wwwroot\\",
+      "BasePath": "_content/ClienteServidor.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\BUSSING IT\\servicio_cliente\\ClienteServidor.Api\\wwwroot\\favicon.ico",
+      "SourceId": "ClienteServidor.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BUSSING IT\\servicio_cliente\\ClienteServidor.Api\\wwwroot\\",
+      "BasePath": "_content/ClienteServidor.Api",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\BUSSING IT\\servicio_cliente\\ClienteServidor.Api\\wwwroot\\index.html",
+      "SourceId": "ClienteServidor.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BUSSING IT\\servicio_cliente\\ClienteServidor.Api\\wwwroot\\",
+      "BasePath": "_content/ClienteServidor.Api",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

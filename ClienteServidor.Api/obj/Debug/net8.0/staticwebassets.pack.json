@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\BUSSING IT\\servicio_cliente\\ClienteServidor.Api\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\BUSSING IT\\servicio_cliente\\ClienteServidor.Api\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ClienteServidor.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ClienteServidor.Api.props",
+      "PackagePath": "build\\ClienteServidor.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ClienteServidor.Api.props",
+      "PackagePath": "buildMultiTargeting\\ClienteServidor.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ClienteServidor.Api.props",
+      "PackagePath": "buildTransitive\\ClienteServidor.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
